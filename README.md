@@ -1,4 +1,4 @@
 # apnarepo-demo
-this is demo repositary.
+This is demo repositary.
 <br>
 Author- Ronat Kumar Muni
